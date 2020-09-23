@@ -1,0 +1,17 @@
+header, footer {
+    background-color: darkgray;
+    color: white;
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+*{
+    margin: 0;
+}
+
+main {
+    margin: 5rem auto;
+    width: 80%;
+}
